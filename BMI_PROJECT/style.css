@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    background-color: rgba(234, 229, 229, 0.8);
+}
+.container{
+    height: 90vh;
+    width: 40%;
+    margin-top: 40px;
+    border-radius: 5%;
+    background-color: aliceblue;
+} 
+h1{
+    margin-top: 30px;
+    text-align: center;
+}
+span{
+    color: rgb(1, 183, 255);
+    font-size: 40px;
+}
+.content {
+    text-align: center;
+    margin: 50px;
+}
+#age {
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 35px;
+    background-color: rgb(1, 255, 221);
+    text-align: center;
+    color: gold;
+    font-size: large;
+    font-weight: 800;
+    cursor: pointer;
+    
+}
+.content h3{
+    color: rgb(148, 237, 5);
+    font-size: 25px;
+}
+.main-content{
+    text-align: center;
+    margin: 20px;
+}
+.main-content h3{
+    color: rgb(148, 237, 5);
+    font-size: 25px;
+}
+#height{
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 35px;
+    background-color: rgb(1, 255, 221);
+    text-align: center;
+    color: gold;
+    font-size: large;
+    font-weight: 800;
+    cursor: pointer;
+}
+#weight{
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 35px;
+    background-color: rgb(1, 255, 221);
+    text-align: center;
+    color: gold;
+    font-size: large;
+    font-weight: 800;
+    cursor: pointer;
+}
+form{
+    margin:20px ;
+    text-align: center;
+    background-color: rgb(98, 114, 112);
+    border-radius: 50px;
+}
+#mybtn{
+    height: 40px;
+    width: 120px;
+    margin-bottom: 20px;
+    background-color: rgb(1, 255, 221);
+    color: aliceblue;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+h2{
+   text-align: center;
+   margin-top: 20px; 
+   background-color: rgb(1, 255, 221);
+
+}
+h3{
+    text-align: center;
+    margin-top: 20px; 
+    font-size: 25px;
+}
